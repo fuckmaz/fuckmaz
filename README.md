@@ -1,4 +1,5 @@
-## Hi there I'm using WhatsApp
+### welcome to my profile <3
+(imagine midwest-emo playing in the background)
 
 <!--
 **fuckmaz/fuckmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
