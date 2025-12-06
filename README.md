@@ -1,10 +1,8 @@
 ### welcome to my profile <3
-(imagine midwest-emo playing in the background)
+
+as this isn't myspace please just imagine midwest-emo playing in the background :)
 
 <!--
-**fuckmaz/fuckmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
