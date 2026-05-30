@@ -1,6 +1,4 @@
-### welcome to my profile <3
-
-as this isn't myspace please just imagine midwest-emo playing in the background :)
+### hey, i'm maz :)
 
 <!--
 
